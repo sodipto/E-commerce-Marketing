@@ -1,0 +1,26 @@
+.lead{
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+}
+.recent-work-wrap .overlay .preview {
+  bottom: 0;
+  display: inline-block;
+  height: 35px;
+  line-height: 35px;
+  border-radius: 0;
+  background: transparent;
+  text-align: center;
+  color: #fff;
+}
+
+.options
+{
+    padding: 20px 0px 20px 0px;
+    margin: 0px 0px 30px 0px;
+    background-color: #99CCFF;
+    border-color: #5EAEFF;
+    border-style: none solid solid solid;
+    border-width: 1px;
+    text-align: center;
+}
